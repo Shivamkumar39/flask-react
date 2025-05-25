@@ -3,7 +3,7 @@
 2. install flask(pip install flask);
 3. install flask cors pymongo
    
- # fronted
+# fronted
 
 1. create new folder;
 2. install npm,
